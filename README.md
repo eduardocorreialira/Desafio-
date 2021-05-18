@@ -12,5 +12,9 @@
 *Pesquisar Cliente ,clicar no botão pesquisar e  digitar o nome do cliente que Desejar.
 
 *Saber maior valor de compra ,clicar no botão maior valor e ele mostrará .
- 
+
+
+ <img src="https://github.com/eduardocorreialira/Desafio-/blob/main/Imagem%20cadastro.png"/>
+  
  <img src="https://github.com/eduardocorreialira/Desafio-/blob/main/imagem%20BD.png"/>
+ 
